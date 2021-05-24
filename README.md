@@ -1,9 +1,9 @@
 <img align="right" src="https://raw.githubusercontent.com/MaiaraSantos/MaiaraSantos/main/ilustra-principal.png" width="450"/>
 
 ### Welcome to my profile! ✨
-I'm Maiara, nice to meet you! I worked for more than 10 years as a designer and now I am in transition to the career of Front-end developer.
+I'm Maiara, nice to meet you! <br>I worked for more than 10 years as a designer and now I am in transition to the career of Front-end developer. I am currently studying Internet Systems at Faculdade Estácio. 👩‍💻
 
-- 🚀 I'm looking for my first job as a front-end dev
+- 🚀 I'm looking for my first job as a front-end dev or internship
 - 📚 Learning is essential for me
 - 💬 Let's talk!
 
