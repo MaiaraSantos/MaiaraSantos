@@ -3,7 +3,7 @@
 ### Welcome to my profile! ✨
 I'm Maiara, nice to meet you! <br>I worked for more than 10 years as a designer and now I am in transition to the career of Front-end developer. I am currently studying Internet Systems at Universidade Estácio de Sá. 👩‍💻
 
-- 🚀 I'm looking for my first job as a front-end dev or internship
+- 🚀 Intern at Iteris Consultoria e Software
 - 📚 Learning is essential for me
 - 💬 Let's talk!
 
