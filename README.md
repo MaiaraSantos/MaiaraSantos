@@ -1,9 +1,9 @@
 <img align="right" src="https://raw.githubusercontent.com/MaiaraSantos/MaiaraSantos/main/ilustra-principal.png" width="450"/>
 
 ### Welcome! ✨
-I'm Maiara, nice to meet you! <br>I worked for more than 10 years as a designer and now I am a mobile developer internship. I am currently studying Internet Systems at Universidade Estácio de Sá. 👩‍💻
+I'm Maiara, nice to meet you! <br>I worked for more than 10 years as a designer and now I am a mobile developer trainee. I am currently studying Internet Systems at Universidade Estácio de Sá. 👩‍💻
 
-- 🚀 Software Developer Internship at Iteris Consultoria e Software
+- 🚀 Software Developer Trainee at Iteris Consultoria e Software
 - 📚 Learning is essential for me
 - 💬 Let's talk!
 
