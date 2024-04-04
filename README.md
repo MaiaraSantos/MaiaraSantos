@@ -3,7 +3,7 @@
 ### Welcome! ✨
 I'm Maiara, nice to meet you! <br>I worked for more than 10 years as a designer and now I am a mobile developer trainee. I am currently studying Internet Systems at Universidade Estácio de Sá. 👩‍💻
 
-- 🚀 Software Developer Trainee at Iteris Consultoria e Software
+- 🚀 Junior Software Developer at Iteris Consultoria e Software
 - 📚 Learning is essential for me
 - 💬 Let's talk!
 
